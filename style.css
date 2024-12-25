@@ -24,7 +24,6 @@ nav .alert {
   display: none;
 }
 
-
 /* ---------- hero section ----------- */
 #hero {
   background: url("./assets/hero1.webp");
@@ -270,6 +269,7 @@ nav .alert {
   display: flex;
   align-items: center;
   gap: 10px;
+  cursor: pointer;
 }
 
 .img-and-name span {
@@ -402,6 +402,7 @@ nav .alert {
   border-radius: 5px;
   color: #fff;
   font-weight: normal;
+  cursor: pointer;
 }
 /* ---------------------------------- */
 
@@ -711,6 +712,9 @@ footer .footer-container {
     display: block;
     text-align: center;
     padding: 2rem 0;
+    font-weight: lighter;
+    font-size: 30px;
+    font-family: "Playfair Display", serif;
   }
 
   #offers .content {
@@ -793,6 +797,7 @@ footer .footer-container {
 
   #member-benefits .benefits {
     flex-direction: row;
+    gap: 2rem;
   }
   #member-benefits .benefits .benefit {
     border-right: 1px solid rgb(230, 227, 227);
