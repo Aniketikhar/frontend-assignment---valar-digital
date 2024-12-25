@@ -27,7 +27,7 @@ nav .alert {
 
 /* ---------- hero section ----------- */
 #hero {
-  background: url("./assets/hero1.png");
+  background: url("./assets/hero1.webp");
   background-position: top center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -686,7 +686,7 @@ footer .footer-container {
   }
 
   #hero {
-    background: url("./assets/hero2.png");
+    background: url("./assets/hero2.webp");
     background-position: top center;
     background-size: cover;
     background-repeat: no-repeat;

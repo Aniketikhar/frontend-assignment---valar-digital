@@ -14,49 +14,49 @@ const indicators = document.querySelector(".indicators");
 
 const desktopPlans = {
   1: [
-    "./assets/1 x Christmas Scent Bundles/desktop/Member Offer 1x - Desktop 01.jpg",
-    "./assets/1 x Christmas Scent Bundles/desktop/Member Offer 1x - Desktop 02.jpg",
-    "./assets/1 x Christmas Scent Bundles/desktop/Member Offer 1x - Desktop 03.jpg",
-    "./assets/1 x Christmas Scent Bundles/desktop/Member Offer 1x - Desktop 04.jpg",
-    "./assets/1 x Christmas Scent Bundles/desktop/Member Offer 1x - Desktop 05.jpg",
+    "./assets/1 x Christmas Scent Bundles/desktop/Member Offer 1x - Desktop 01.webp",
+    "./assets/1 x Christmas Scent Bundles/desktop/Member Offer 1x - Desktop 02.webp",
+    "./assets/1 x Christmas Scent Bundles/desktop/Member Offer 1x - Desktop 03.webp",
+    "./assets/1 x Christmas Scent Bundles/desktop/Member Offer 1x - Desktop 04.webp",
+    "./assets/1 x Christmas Scent Bundles/desktop/Member Offer 1x - Desktop 05.webp",
   ],
   2: [
-    "./assets/2 x Christmas Scent Bundles/desktop/Member Offer 2x - Desktop 05.jpg",
-    "./assets/2 x Christmas Scent Bundles/desktop/Member Offer 2x - Desktop 01.jpg",
-    "./assets/2 x Christmas Scent Bundles/desktop/Member Offer 2x - Desktop 02.jpg",
-    "./assets/2 x Christmas Scent Bundles/desktop/Member Offer 2x - Desktop 03.jpg",
-    "./assets/2 x Christmas Scent Bundles/desktop/Member Offer 2x - Desktop 04.jpg",
+    "./assets/2 x Christmas Scent Bundles/desktop/Member Offer 2x - Desktop 05.webp",
+    "./assets/2 x Christmas Scent Bundles/desktop/Member Offer 2x - Desktop 01.webp",
+    "./assets/2 x Christmas Scent Bundles/desktop/Member Offer 2x - Desktop 02.webp",
+    "./assets/2 x Christmas Scent Bundles/desktop/Member Offer 2x - Desktop 03.webp",
+    "./assets/2 x Christmas Scent Bundles/desktop/Member Offer 2x - Desktop 04.webp",
   ],
   3: [
-    "./assets/3 x Christmas Scent Bundles/desktop/Member Offer 3x - Desktop 03.jpg",
-    "./assets/3 x Christmas Scent Bundles/desktop/Member Offer 3x - Desktop 01.jpg",
-    "./assets/3 x Christmas Scent Bundles/desktop/Member Offer 3x - Desktop 02.jpg",
-    "./assets/3 x Christmas Scent Bundles/desktop/Member Offer 3x - Desktop 04.jpg",
-    "./assets/3 x Christmas Scent Bundles/desktop/Member Offer 3x - Desktop 05.jpg",
+    "./assets/3 x Christmas Scent Bundles/desktop/Member Offer 3x - Desktop 03.webp",
+    "./assets/3 x Christmas Scent Bundles/desktop/Member Offer 3x - Desktop 01.webp",
+    "./assets/3 x Christmas Scent Bundles/desktop/Member Offer 3x - Desktop 02.webp",
+    "./assets/3 x Christmas Scent Bundles/desktop/Member Offer 3x - Desktop 04.webp",
+    "./assets/3 x Christmas Scent Bundles/desktop/Member Offer 3x - Desktop 05.webp",
   ],
 };
 
 const mobilePlans = {
   1: [
-    "./assets/1 x Christmas Scent Bundles/mobile/Member Offer 1x - Mobile 01.jpg",
-    "./assets/1 x Christmas Scent Bundles/mobile/Member Offer 1x - Mobile 02.jpg",
-    "./assets/1 x Christmas Scent Bundles/mobile/Member Offer 1x - Mobile 03.jpg",
-    "./assets/1 x Christmas Scent Bundles/mobile/Member Offer 1x - Mobile 04.jpg",
-    "./assets/1 x Christmas Scent Bundles/mobile/Member Offer 1x - Mobile 05.jpg",
+    "./assets/1 x Christmas Scent Bundles/mobile/Member Offer 1x - Mobile 01.webp",
+    "./assets/1 x Christmas Scent Bundles/mobile/Member Offer 1x - Mobile 02.webp",
+    "./assets/1 x Christmas Scent Bundles/mobile/Member Offer 1x - Mobile 03.webp",
+    "./assets/1 x Christmas Scent Bundles/mobile/Member Offer 1x - Mobile 04.webp",
+    "./assets/1 x Christmas Scent Bundles/mobile/Member Offer 1x - Mobile 05.webp",
   ],
   2: [
-    "./assets/2 x Christmas Scent Bundles/mobile/Member Offer 2x - Mobile 01.jpg",
-    "./assets/2 x Christmas Scent Bundles/mobile/Member Offer 2x - Mobile 02.jpg",
-    "./assets/2 x Christmas Scent Bundles/mobile/Member Offer 2x - Mobile 03.jpg",
-    "./assets/2 x Christmas Scent Bundles/mobile/Member Offer 2x - Mobile 04.jpg",
-    "./assets/2 x Christmas Scent Bundles/mobile/Member Offer 2x - Mobile 05.jpg",
+    "./assets/2 x Christmas Scent Bundles/mobile/Member Offer 2x - Mobile 01.webp",
+    "./assets/2 x Christmas Scent Bundles/mobile/Member Offer 2x - Mobile 02.webp",
+    "./assets/2 x Christmas Scent Bundles/mobile/Member Offer 2x - Mobile 03.webp",
+    "./assets/2 x Christmas Scent Bundles/mobile/Member Offer 2x - Mobile 04.webp",
+    "./assets/2 x Christmas Scent Bundles/mobile/Member Offer 2x - Mobile 05.webp",
   ],
   3: [
-    "./assets/3 x Christmas Scent Bundles/mobile/Member Offer 3x - Mobile 01.jpg",
-    "./assets/3 x Christmas Scent Bundles/mobile/Member Offer 3x - Mobile 02.jpg",
-    "./assets/3 x Christmas Scent Bundles/mobile/Member Offer 3x - Mobile 03.jpg",
-    "./assets/3 x Christmas Scent Bundles/mobile/Member Offer 3x - Mobile 04.jpg",
-    "./assets/3 x Christmas Scent Bundles/mobile/Member Offer 3x - Mobile 05.jpg",
+    "./assets/3 x Christmas Scent Bundles/mobile/Member Offer 3x - Mobile 01.webp",
+    "./assets/3 x Christmas Scent Bundles/mobile/Member Offer 3x - Mobile 02.webp",
+    "./assets/3 x Christmas Scent Bundles/mobile/Member Offer 3x - Mobile 03.webp",
+    "./assets/3 x Christmas Scent Bundles/mobile/Member Offer 3x - Mobile 04.webp",
+    "./assets/3 x Christmas Scent Bundles/mobile/Member Offer 3x - Mobile 05.webp",
   ],
 };
 
@@ -117,7 +117,7 @@ function stylePlan() {
       let imgTag = planElement.querySelector("img");
       let ulElement = planElement.querySelector("ul");
       if (imgTag) {
-        imgTag.src = "/assets/notChecked.png";
+        imgTag.src = "/assets/notChecked.webp";
       }
       if (ulElement) {
         ulElement.style.display = "none";
@@ -133,7 +133,7 @@ function stylePlan() {
     let ulElement = selectedPlan.querySelector("ul");
     let liElements = ulElement.querySelectorAll("li");
     if (imgTag) {
-      imgTag.src = "/assets/checked.png";
+      imgTag.src = "/assets/checked.webp";
     }
     if (ulElement) {
       ulElement.style.display = "block";
